@@ -41,7 +41,7 @@ This project analyzes customer churn behavior in a European bank using Power BI.
 
 ## 🚀 Outcome
 This project helps banks proactively identify high-risk customers and design better retention strategies.
-Dashboard Preview 
+##  Dashboard Preview 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1634adc4-ac61-4b2f-ae43-f577c0909e91" />
 
 ## 👨‍💼 Author
